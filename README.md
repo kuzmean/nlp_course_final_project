@@ -1,4 +1,5 @@
 # Toxic Comment Classification Project
+Final project from ODS NLP course, spring 2024
 
 ## Project Description
 
